@@ -1,0 +1,33 @@
+.partner-container{
+    padding: 50px 0px;
+    text-align: center;
+}
+.partner-container > div{
+    color: #869ab8!important;
+    padding-right: 20px;
+}
+
+.partner1{
+    display: inline-block;
+    min-width: 10%;
+}
+.partner2{
+    display: inline-block;
+    min-width: 10%;
+}
+.partner3{
+    display: inline-block;
+    min-width: 10%;
+}
+.partner4{
+    display: inline-block;
+    min-width: 10%;
+}
+.partner5{
+    display: inline-block;
+    min-width: 10%;
+}
+.partner6{
+    display: inline-block;
+    min-width: 10%;
+}

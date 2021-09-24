@@ -1,0 +1,30 @@
+.cards-container{
+    text-align: center;
+    padding: 50px 0px;
+    border-bottom: 1px solid #f1f4f8!important;
+}
+
+.card1{
+    display: inline-block;
+}
+.card2{
+    display: inline-block;
+}
+.card3{
+    display: inline-block;
+}
+
+.icon{
+    text-align: left;
+}
+
+.card1 > h3 , .card2 > h3 , .card3 > h3{
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: left;
+}
+.card1 > p, .card2 > p, .card3 > p{
+    color: #869ab8!important;
+    max-width: 20rem;
+    text-align: left;
+}

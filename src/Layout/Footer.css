@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f1f4f8!important;
+    padding-bottom: 6rem !important;
+    padding-top: 6rem !important;
+}
+
+.category{
+    display: flex;
+    flex-direction: column;
+}
+.category > h6{
+    color: #506690!important;
+    font-weight: 600 !important;
+    font-size: .75rem;
+}
+
+.category > a {
+    text-decoration: none;
+    color: #869ab8!important;
+    padding-bottom: 10px;
+}
+
+p {
+    color: #506690!important;
+    font-size: 1.0625rem;
+    font-weight: 400;
+}
+
+.social-media-icons > img {
+    padding-right: 15px;
+}

@@ -1,0 +1,27 @@
+form {
+    background-color: rgb(204, 203, 203);
+    margin: 5% 20%;
+}
+form > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+form > div > input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #7c8da5;
+    background-color: rgb(204, 203, 203);
+}
+form > div > label {
+    color: #677fa1;
+}
+button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}

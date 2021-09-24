@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}
+
+#nav-links > a {
+    color: #506690;
+    text-decoration: none;
+    padding: 1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.buy-btn{
+    background-color: #335eea;
+    color: #fff;
+    border-color: transparent !important;
+    border-radius: .375rem;
+    font-size: 1.0625rem;
+    padding: .5625rem 1rem;
+    cursor: pointer;
+}
+.brand-name > button {
+    background: transparent;
+    cursor: pointer;
+}
+
